@@ -1,0 +1,60 @@
+body{
+    background-image: url("background.png");
+    background-size: cover;
+}
+.general {
+    color: aliceblue;
+    text-align: center;
+}
+#Bill{
+    background-color: azure;
+    padding: 14px 28px;
+    border:2px solid #d1ab73;
+    border-radius:5px;
+}
+#Tip{
+    background-color: azure;
+    padding: 14px 28px;
+    border:2px solid #d1ab73;
+    border-radius:5px;
+}
+#final{
+    background:transparent;
+    border: transparent;
+    font-size:x-large;
+    color: azure;
+}
+#adaug{
+    background-color:#baccd7;
+	border-radius:5px;
+	border:2px solid #d1ab73;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:15px 15px;
+}
+#scad{
+    background-color:#baccd7;
+	border-radius:5px;
+	border:2px solid #d1ab73;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:15px 15px;
+}
+#calculat{
+    background-color: #d1ab73;
+	border-radius:20px;
+	border:1px solid rgb(5, 7, 67);
+	display:inline-block;
+    margin-left: 5vw;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+}
